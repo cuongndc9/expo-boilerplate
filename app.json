@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Vivify Boilerplate",
+    "description": "A very interesting project.",
+    "slug": "development",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "your team short name here",
+            "project": "your project short name here",
+            "authToken": "your auth token here"
+          }
+        }
+      ]
+    }
+  }
+}
