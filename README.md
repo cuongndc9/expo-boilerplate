@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # expo-boilerplate
 
 > 🌳📱 React Native boilerplate with Expo, Redux and Redux Saga.
