@@ -91,6 +91,6 @@ As for **_android_**, you have `package` which is same as `bundleIdentifier` on 
 More about `app.json` configuration can be found [here](https://docs.expo.io/versions/latest/workflow/configuration/).
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🐶
+Discomfort is the currency of your dreams.
+🐯
 <!-- INSPIRATIONAL_QUOTE_END -->
