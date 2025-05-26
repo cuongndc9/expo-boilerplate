@@ -93,5 +93,5 @@ More about `app.json` configuration can be found [here](https://docs.expo.io/ver
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Discomfort is the currency of your dreams.
-🦖
+👀,
 <!-- INSPIRATIONAL_QUOTE_END -->
