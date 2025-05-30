@@ -92,6 +92,6 @@ More about `app.json` configuration can be found [here](https://docs.expo.io/ver
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-👻
+Action beats perfection.
+👀,
 <!-- INSPIRATIONAL_QUOTE_END -->
