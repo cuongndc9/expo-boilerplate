@@ -92,5 +92,5 @@ More about `app.json` configuration can be found [here](https://docs.expo.io/ver
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
