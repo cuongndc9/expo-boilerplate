@@ -92,5 +92,5 @@ More about `app.json` configuration can be found [here](https://docs.expo.io/ver
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "In the middle of difficulty lies opportunity." - Albert Einstein
+> "Failure will never overtake me if my determination to succeed is strong enough." - Og Mandino
 <!-- INSPIRATIONAL_QUOTE_END -->
